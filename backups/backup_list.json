@@ -2,7 +2,7 @@
   {
     "name": "ioannisxirr's backup",
     "author": "ioannisxirr",
-    "features_url": "https://example.com"
-    "backup_url": "https://example.com"
+    "ref_id": "ioannisxirr-instafel"
+    "features_enabled": true,
   }
 ]
