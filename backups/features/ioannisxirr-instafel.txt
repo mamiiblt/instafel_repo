@@ -1,12 +1,12 @@
-Analytics:
--Prevented the app from creating analytics files, which prevents the app from getting a large size accordingly.
--Optimised the app to be more efficient in terms of power (credit to XAlboX for that)
-Avatars:
--You can react in stories with more avatars.
--The size of the stickers is now decreased.
--You can post your avatar in comments.
--You can reply with your avatar in chats.
-Camera:
+Analytics:\n
+-Prevented the app from creating analytics files, which prevents the app from getting a large size accordingly.\n
+-Optimised the app to be more efficient in terms of power (credit to XAlboX for that)\n
+Avatars:\n
+-You can react in stories with more avatars.\n
+-The size of the stickers is now decreased.\n
+-You can post your avatar in comments.\n
+-You can reply with your avatar in chats.\n
+Camera:\n
 -Added Boomerang option on reels creation.
 -Three circles at the top of the reel recording for easier control.
 -Small redesign of the media picker in story and reel creation, with new options.
